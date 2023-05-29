@@ -1,16 +1,52 @@
-### Hi there 👋
+## Hey, listen! :sparkles:	
 
-<!--
-**munyrasirio/munyrasirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my Github profile. Take a sip and have a seat! ☕
 
-Here are some ideas to get you started:
+I'm Munyra Sírio, </br>
+a Mid Frontend Software Engineer, currently working at <a href='http://github.com/juntossomosmais' title='JuntosSomosMais'>Juntos Somos Mais</a>. </br>
+I live in Santa Catarina/BR and I prefer to work remotely. 🔌</br>
+My first love is Biology 🌄, I even have a bachelor's degree with an emphasis on ecology. 🌎</br>
+By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as an software engineer. 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=80449c&bar_color_cover=false"/>
+
+### 🎮 My hobbies
+- Anime/Manga/Manhwa. One Piece FTW! 🏴‍☠️
+- Series & Movies. Fantasy, comedy and sci-fi are my top genres!
+- Videogames. I have a special fondness for indie games and Nintendo franchises. 💜
+
+### 🤙 Where you can find me
+<a target='_blank' href='https://www.linkedin.com/in/munyrassirio/' title='LinkedIn'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
+<a target='_blank' href='https://www.instagram.com/munyra.sirio/' title='Instagram'><img src='https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='munyra.sirio'></a>
+<a target='_blank' href="mailto:munyrasirio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+<img align="right" width='300em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyrasirio&layout=compact&langs_count=8&theme=synthwave" />
+
+### 🚀 My main skills are
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![styled-components](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&logoColor=white")
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+### 🌱 I’m currently learning
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### 🔎 I've worked with
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+ 
