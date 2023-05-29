@@ -9,7 +9,7 @@ My first love is Biology 🌄, I even have a bachelor's degree with an emphasis 
 By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as an software engineer. 💜
 
 <a target='_blank' href='https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&redirect=true' title='Open on Spotify'>
-<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&show_offline=true&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
+<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
 </a>
 
 ### 🎮 My hobbies
