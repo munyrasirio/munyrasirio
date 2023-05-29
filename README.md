@@ -8,7 +8,9 @@ I live in Santa Catarina/BR and I prefer to work remotely. 🔌</br>
 My first love is Biology 🌄, I even have a bachelor's degree with an emphasis on ecology. 🌎</br>
 By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as an software engineer. 💜
 
-<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=80449c&bar_color_cover=false"/>
+<a target='_blank' href='https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&redirect=true' title='Open on Spotify'>
+<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&show_offline=true&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
+</a>
 
 ### 🎮 My hobbies
 - Anime/Manga/Manhwa. One Piece FTW! 🏴‍☠️
