@@ -6,7 +6,7 @@ I'm Munyra Sírio, </br>
 a Mid Frontend Software Engineer, currently working at <a href='http://github.com/juntossomosmais' title='JuntosSomosMais'>Juntos Somos Mais</a>. </br>
 I live in Santa Catarina/BR and I prefer to work remotely. 🔌</br>
 My first love is Biology 🌄, I even have a bachelor's degree with an emphasis on ecology. 🌎</br>
-By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as an software engineer. 💜
+By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as a software engineer. 💜
 
 <a target='_blank' href='https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&redirect=true' title='Open on Spotify'>
 <img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
@@ -16,6 +16,7 @@ By mischief of fate, in 2016 I switched to the technology and every day I discov
 - Anime/Manga/Manhwa. One Piece FTW! 🏴‍☠️
 - Series & Movies. Fantasy, comedy and sci-fi are my top genres!
 - Videogames. I have a special fondness for indie games and Nintendo franchises. 💜
+- Boardgames. I really like dungeon crawlers, resources management, bluff and co-op games.
 
 ### 🤙 Where you can find me
 <a target='_blank' href='https://www.linkedin.com/in/munyrassirio/' title='LinkedIn'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
