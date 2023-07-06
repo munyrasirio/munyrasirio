@@ -3,14 +3,10 @@
 ### Welcome to my Github profile. Take a sip and have a seat! ☕
 
 I'm Munyra Sírio, </br>
-a Mid Frontend Software Engineer, currently working at <a href='http://github.com/juntossomosmais' title='JuntosSomosMais'>Juntos Somos Mais</a>. </br>
+a Mid Frontend Software Engineer, currently working at <a href='https://github.com/ResultadosDigitais' title='RD Station'>RD Station</a>. </br>
 I live in Santa Catarina/BR and I prefer to work remotely. 🔌</br>
 My first love is Biology 🌄, I even have a bachelor's degree with an emphasis on ecology. 🌎</br>
 By mischief of fate, in 2016 I switched to the technology and every day I discover myself more as a software engineer. 💜
-
-<a target='_blank' href='https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&redirect=true' title='Open on Spotify'>
-<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
-</a>
 
 ### 🎮 My hobbies
 - Anime/Manga/Manhwa. One Piece FTW! 🏴‍☠️
@@ -18,12 +14,15 @@ By mischief of fate, in 2016 I switched to the technology and every day I discov
 - Videogames. I have a special fondness for indie games and Nintendo franchises. 💜
 - Boardgames. I really like dungeon crawlers, resources management, bluff and co-op games.
 
+#### What I'm listening? :notes:	<br/>
+<a target='_blank' href='https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&redirect=true' title='Open on Spotify'>
+<img width='300em' src="https://spotify-github-profile.vercel.app/api/view?uid=22nkuwd7rvjiurlui54be453a&cover_image=true&theme=natemoo-re&background_color=373434&interchange=true&bar_color=89418b&bar_color_cover=false"/>
+</a>
+
 ### 🤙 Where you can find me
 <a target='_blank' href='https://www.linkedin.com/in/munyrassirio/' title='LinkedIn'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
 <a target='_blank' href='https://www.instagram.com/munyra.sirio/' title='Instagram'><img src='https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='munyra.sirio'></a>
 <a target='_blank' href="mailto:munyrasirio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
-<img align="right" width='300em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyrasirio&layout=compact&langs_count=8&theme=synthwave" />
 
 ### 🚀 My main skills are
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,6 +34,8 @@ By mischief of fate, in 2016 I switched to the technology and every day I discov
 ![styled-components](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&logoColor=white")
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+<img align="right" width='300em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyrasirio&layout=compact&langs_count=8&theme=synthwave" />
 
 ### 🌱 I’m currently learning
 I'm venturing into various frameworks and languages, but currently I'm focusing on: </br></br>
