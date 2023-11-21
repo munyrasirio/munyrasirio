@@ -34,8 +34,8 @@ By mischief of fate, in 2016 I switched to the technology and every day I discov
 
 ### 🌱 I’m currently learning
 I'm venturing into various frameworks and languages, but currently I'm focusing on: </br></br>
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
 
 
 ### 🔎 I've worked with
